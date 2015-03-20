@@ -1,0 +1,6 @@
+com\anneke\features\JSONParser.class
+com\anneke\features\PhoneNumber.class
+com\anneke\features\PhoneNumber$Type.class
+com\anneke\features\JSONbyGSON.class
+com\anneke\features\JSONbyJSONSimple.class
+com\anneke\features\Person.class

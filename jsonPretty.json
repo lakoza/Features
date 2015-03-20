@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "firstName": "Lisa",
+  "lastName": "Levenhuk",
+  "age": 8,
+  "phoneNumbers": [
+    {
+      "number": "481310",
+      "type": "SELL"
+    },
+    {
+      "number": "980888",
+      "type": "WORK"
+    }
+  ],
+  "isMarried": true
+}
